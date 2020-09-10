@@ -1,6 +1,6 @@
 .top{
     height:940px;
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/pink_2.jpg?raw");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/pink_2.jpg?raw=true");
     color:#fff;
 }
 .top-logo{
@@ -44,14 +44,14 @@ p{
     height:100%;
 }
 .originality{
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/blue_1.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/blue_1.jpg?raw=true");
 }
 .delivery{
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/box.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/box.jpg?raw=true");
 
 }
 .base{
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/yellow_2.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/yellow_2.jpg?raw=true");
 }
 .third-trim{
     padding:70px 90px 0 90px;
@@ -63,7 +63,7 @@ p{
     height:720px;
 }
 .fourth-left{
-    background-image:url("https://github.com/YKusakata/FLOWER-copy/blob/master/pink_1.jpg");
+    background-image:url("https://github.com/YKusakata/FLOWER-copy/blob/master/pink_1.jpg?raw=true");
 }
 .bg-pink{
     background-color:#E9D5DC; 
@@ -73,7 +73,7 @@ p{
     height:825px;
 }
 .fifth-right{
-    background-image:url("https://github.com/YKusakata/FLOWER-copy/blob/master/white_1.jpg");
+    background-image:url("https://github.com/YKusakata/FLOWER-copy/blob/master/white_1.jpg?raw=true");
 }
 .two-week{
     display:flex;
@@ -157,7 +157,7 @@ p{
     height:420px;
 }
 .sev-r{
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/yellow_1.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/yellow_1.jpg?raw=true");
 }
 .bg-trim3{
     background-size:contain;
@@ -208,7 +208,7 @@ footer{
 }
 .img{
     height: 730px;
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/pink_1.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/pink_1.jpg?raw=true");
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -230,7 +230,7 @@ footer{
 }
 .vase-img{
     height: 825px;
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/white_1.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/white_1.jpg?raw=true");
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -255,7 +255,7 @@ footer{
 }
 .dl-img{
     height: 545px;
-    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/yellow_1.jpg");
+    background-image: url("https://github.com/YKusakata/FLOWER-copy/blob/master/yellow_1.jpg?raw=true");
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
